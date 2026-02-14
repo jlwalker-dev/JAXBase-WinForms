@@ -1,6 +1,6 @@
 # JAXBase-WinForms
 Early dev of JAXBase V1 for Windows only
- 
+  
 ## Important Notice
 This is an early, work-in-progress prototype / migration staging area for JAXBase.<br>
 This version is Windows-only (WinForms-based) and is not the official release version.<br>
