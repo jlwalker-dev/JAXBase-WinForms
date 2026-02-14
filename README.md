@@ -9,4 +9,4 @@ This code is experimental, incomplete, and is now largely obsolete - Intended fo
 
 If you really want to download it, feel free as it is open-source.<br><br>
 
-See the main repo/wiki [here](https://github.com/jlwalker-dev/JAXBaseV1) for the current project overview, language specs, and roadmap.
+See the main [repo](https://github.com/jlwalker-dev/JAXBaseV1) and [wiki](https://github.com/jlwalker-dev/JAXBaseV1/wiki_) for the current source, project overview, language specs, and roadmap.
